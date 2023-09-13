@@ -1,0 +1,6 @@
+echo "this is a feature." > feature.txt
+
+git add feature.txt
+
+git commit -m "added a new feature"
+
